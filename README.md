@@ -2,11 +2,13 @@
 
 ## Objective: 
 
-The objective of this comprehensive [business insights dashboard](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)  is to provide stakeholders with a centralized platform to monitor and analyze key performance indicators across multiple dimensions including finance, sales, marketing, supply chain, and executive. By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
+The objective of this comprehensive business insights dashboard is to provide stakeholders with a centralized platform to monitor and analyze key performance indicators across multiple dimensions including finance, sales, marketing, supply chain, and executive. By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
 
-Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODA1OTFmMmQtYjc1ZC00OGY0LTkyYjUtOWZkMmNkOWQ5NWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+- [x] Dashboard: [PDF](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)
+  
+- [x] Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODA1OTFmMmQtYjc1ZC00OGY0LTkyYjUtOWZkMmNkOWQ5NWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
-## Dashboard Dimensions :
+## Dashboard Dimensions:
 
 ### 1. Finance View: 
 
@@ -57,6 +59,11 @@ Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODA1OTFmMmQtYj
    - **Importance:** Crucial in providing executives with actionable insights for strategic decision-making.
      
    - **Role of Report:** Present top-level insights and key performance indicators across finance, sales, marketing, and supply chain, enabling executives to make strategic decisions and drive overall company trajectory.
+
+## Data Model:
+<p align="center">
+  <img src="https://github.com/anisarsad/Business-Insights-360/blob/main/Data%20Model.png" height="400">
+</p>
 
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).

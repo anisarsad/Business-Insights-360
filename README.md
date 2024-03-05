@@ -2,7 +2,7 @@
 
 ## Objective: 
 
-The objective of this comprehensive [business insights dashboard](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)  is to provide stakeholders with a centralized platform to monitor and analyze key performance indicators across multiple dimensions including finance, sales, marketing, supply chain, and executive. By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
+The objective of this comprehensive [business insights dashboard](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)  is to provide stakeholders with a centralized platform to monitor and analyze key performance indicators across multiple dimensions including finance, sales, marketing, supply chain, and executive. By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
 
 
 ## Dashboard Dimensions :

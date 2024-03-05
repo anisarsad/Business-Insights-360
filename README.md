@@ -4,6 +4,7 @@
 
 The objective of this comprehensive [business insights dashboard](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)  is to provide stakeholders with a centralized platform to monitor and analyze key performance indicators across multiple dimensions including finance, sales, marketing, supply chain, and executive. By aggregating data from various sources, this dashboard aims to facilitate data-driven decision-making, identify trends, and uncover actionable insights to drive business growth and efficiency.
 
+Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODA1OTFmMmQtYjc1ZC00OGY0LTkyYjUtOWZkMmNkOWQ5NWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 
 ## Dashboard Dimensions :
 

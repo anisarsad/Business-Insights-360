@@ -7,6 +7,7 @@ The objective of this comprehensive business insights dashboard is to provide st
 - [x] Dashboard: [PDF](https://github.com/anisarsad/Business-Insights-360/blob/main/Business_insights_360.pdf)
   
 - [x] Live Dashboard: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiODA1OTFmMmQtYjc1ZC00OGY0LTkyYjUtOWZkMmNkOWQ5NWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
+- [x] Live Dashboard Ver.1.0: [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNzVjZWQyNDktNzc0NC00MDdkLTkxMTktNzYyZDVkMWU2YjcxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## Dashboard Dimensions:
 
